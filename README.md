@@ -1,0 +1,2 @@
+# determinator
+An Android app
